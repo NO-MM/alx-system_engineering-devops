@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Mode of 'hello' set to match 'olleh'."
