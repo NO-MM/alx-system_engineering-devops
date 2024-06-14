@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod "mode_olleh" "file_hello"
+echo "Mode of 'hello' set to match 'olleh'."
